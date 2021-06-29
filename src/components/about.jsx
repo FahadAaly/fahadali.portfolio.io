@@ -17,15 +17,18 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I'm a full-stack developer specialised in frontend and
-                        backend development for complex scalable web apps.
+                        Hi, I'm a full-stack developer specialised in frontend
+                        and backend development for complex scalable web apps.
+                      </p>
+                      <p>I have done my graduation in Computer Science.</p>
+                      <p>
+                        I have about over 3 years of working experience in the
+                        software development field, building projects for the
+                        web and mobile platforms, using different programming
+                        tools like JavaScript, TypeScript, PHP, HTML & CSS.
                       </p>
                       <p>
-                        Has over 3 years of working experience in the software
-                        development field, building projects for the web and
-                        mobile platforms, using different programming tools like
-                        JavaScript, TypeScript, PHP, HTML & CSS. I love
-                        exploring new technologies and mostly focused on
+                        I love exploring new technologies and mostly focused on
                         frontend technologies.
                       </p>
                     </div>
